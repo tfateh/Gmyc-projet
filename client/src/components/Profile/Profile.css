@@ -1,0 +1,22 @@
+.user-profile {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+  }
+  
+  .user-details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .user-products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+  }
+
+  .loading-pofile {
+margin-top: 50px;
+  }
